@@ -7,7 +7,7 @@ I'm Bambuko, an indie game developer from Poland.
 
 I mostly sit on the backend side of projects, though I'm open to explore new possibilities.
 ## Something more about me
-  💻 Currently working on Qwerty's Planet 🌍
+  💻 Currently working on: a secret school project :D
 
   🎸 Proud guitarist
 
