@@ -9,7 +9,6 @@ Want to contact me?
 
 [![wakatime](https://wakatime.com/badge/user/018e9993-ce37-4875-81db-31d234d7b490.svg)](https://wakatime.com/@018e9993-ce37-4875-81db-31d234d7b490)
 
-[![Personal Website](https://img.shields.io/badge/My_Website-NeoCities-blue?style=for-the-badge&logo=web&color=red)](https://bambuko.neocities.org)
 [![ArchLinux](https://img.shields.io/badge/linux%20distro-arch_linux-blue.svg?style=for-the-badge&logo=archlinux)](https://archlinux.org)
 
 [![Bambuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BambukoDev&theme=transparent)](https://github.com/BambukoDev)
